@@ -2,9 +2,7 @@ fx_version "adamant"
 game "gta5"
 
 author "Trsak"
-
 description "ESX Inventory HUD"
-
 version "2.4.0"
 
 ui_page "html/ui.html"
@@ -38,7 +36,7 @@ files {
   -- JS LOCALES
   "html/locales/*.js",
   -- IMAGES
-  "html/img/bullet.png",
+  "html/img/*.png",
   -- ICONS
   "html/img/items/*.png"
 }
